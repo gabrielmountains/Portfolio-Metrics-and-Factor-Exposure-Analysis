@@ -1,7 +1,7 @@
 # Portfolio-Metrics-and-Factor-Exposure-Analysis
 
 ## Overview
-This project applies quantitative investment analysis techniques to construct, rank, and evaluate portfolios based on fundamental metrics, using data from CRSP, Compustat, and Fama-French factor datasets. The objective is to analyze the performance and factor exposures of various portfolios constructed from top-ranking stocks by metrics such as Book Value, Income, Dividends, Sales, and Market Cap, aiming to measure returns, volatility, and risk-adjusted performance across different market conditions.
+This project draws from the Research paper ‘Fundamental Indexation’ by Robert D. Arnott, Jason Hsu, and Philip Moore and applies quantitative investment analysis techniques to construct, rank, and evaluate portfolios based on fundamental metrics, using data from CRSP, Compustat, and Fama-French factor datasets. The objective is to analyze the performance and factor exposures of various portfolios constructed from top-ranking stocks by metrics such as Book Value, Income, Dividends, Sales, and Market Cap, aiming to measure returns, volatility, and risk-adjusted performance across different market conditions.
 
 ## Data Sources
 - CRSP Monthly Data: Provides monthly stock return, volume, and price data.
